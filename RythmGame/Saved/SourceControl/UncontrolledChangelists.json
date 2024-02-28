@@ -8,7 +8,13 @@
 				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Scene/M_MainGame.umap",
 				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Scene/M_MainMenu.umap",
 				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Scene/M_TestRoomEliott.umap",
-				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Scene/M_TestRoomLogan.umap"
+				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Scene/M_TestRoomLogan.umap",
+				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Inputs/IM_PlayerMappingContext.uasset",
+				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Inputs/InputsAction/IA_Left.uasset",
+				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Inputs/InputsAction/IA_Right.uasset",
+				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Inputs/InputsAction/IA_Up.uasset",
+				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Blueprints/BP_PlayerKey.uasset",
+				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Blueprints/BP_PlayerControllerBase.uasset"
 			]
 		}
 	]
