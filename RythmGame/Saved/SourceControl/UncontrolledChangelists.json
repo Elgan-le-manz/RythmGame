@@ -13,8 +13,16 @@
 				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Inputs/InputsAction/IA_Left.uasset",
 				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Inputs/InputsAction/IA_Right.uasset",
 				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Inputs/InputsAction/IA_Up.uasset",
-				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Blueprints/BP_PlayerKey.uasset",
-				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Blueprints/BP_PlayerControllerBase.uasset"
+				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Blueprints/BP_PlayerControllerBase.uasset",
+				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Blueprints/BP_EventKeys.uasset",
+				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Blueprints/BP_GamemodeBase.uasset",
+				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Blueprints/BP_LeftEventKeys.uasset",
+				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Blueprints/BP_RightEventKeys1.uasset",
+				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Blueprints/BP_MiddleEventKeys2.uasset",
+				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Blueprints/BP_MiddleEventKeys.uasset",
+				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Blueprints/BP_RightEventKeys.uasset",
+				"C:/Users/sanzl/Documents/GitHub/RythmGame/RythmGame/Content/Blueprints/BP_PlayerKey.uasset"
 			]
 		}
 	]
